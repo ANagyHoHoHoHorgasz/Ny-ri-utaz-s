@@ -1,0 +1,49 @@
+img {
+    max-width: 400px;
+    max-height: 183px;
+}
+body {
+    background-color: antiquewhite;
+    max-width: 1000px;
+    width: 80%;
+}
+
+.Krakow {
+    background-color: rgb(219, 203, 182);
+    border: 10px rgb(235, 175, 103) solid;
+    border-radius: 5px;
+    margin: 10px;
+    
+    
+}
+.Tallinn {
+    background-color: rgb(219, 203, 182);
+    border: 10px rgb(235, 175, 103) solid;
+    border-radius: 5px;
+    margin: 10px;
+    
+    
+}
+.Helsinki {
+    background-color: rgb(219, 203, 182);
+    border: 10px rgb(235, 175, 103) solid;
+    border-radius: 5px;
+    margin: 10px;
+    
+    
+}
+
+*{
+    text-align: center;
+    margin: auto;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+}
+img:hover {
+    
+}
