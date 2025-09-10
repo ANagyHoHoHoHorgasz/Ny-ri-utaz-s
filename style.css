@@ -44,6 +44,7 @@ a {
 a:hover {
     color: black;
 }
-img:hover {
-    
+.koneter {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
